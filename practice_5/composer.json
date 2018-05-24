@@ -1,0 +1,15 @@
+{
+    "name": "megam/practice_5",
+    "authors": [
+        {
+            "name": "cisrony",
+            "email": "cisrony@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+    	"psr-4":{
+    		"Mobiles\\":"Mobile/"
+    	}
+    }
+}

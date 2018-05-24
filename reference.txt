@@ -1,0 +1,9 @@
+
+https://www.youtube.com/watch?v=HTDEX94z0vc&list=PLoR56CteKZnAgvTTb7H7K8cdcXzwKU2zO&index=2
+
+
+Composer init (Command)
+Update Composer.json
+Composer dump(Command)
+
+include_once('vendor/autoload.php');
